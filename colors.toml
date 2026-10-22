@@ -1,0 +1,34 @@
+# /dev/null dark mode — palette from DESIGN.md + resources/css/app.css (.dark)
+# Commit Blue is action; author lanes fill the ANSI set.
+
+mode = "dark"
+
+accent = "#7aa2f7"
+selection = "#18233a"
+muted = "#36363a"
+
+background = "#111112"
+dark_background = "#0c0c0d"
+darker_background = "#080809"
+lighter_background = "#18181a"
+
+foreground = "#c8c8cc"
+dark_foreground = "#a1a1a6"
+light_foreground = "#e7e9ec"
+bright_foreground = "#ececec"
+
+red = "#ff6b6b"
+yellow = "#fcc419"
+orange = "#ff8a4c"
+green = "#51cf66"
+cyan = "#3bc9db"
+blue = "#7aa2f7"
+magenta = "#da77f2"
+brown = "#b7791f"
+
+bright_red = "#ff8787"
+bright_yellow = "#ffd43b"
+bright_green = "#69db7c"
+bright_cyan = "#66d9ef"
+bright_blue = "#94b5f9"
+bright_magenta = "#e599f7"
